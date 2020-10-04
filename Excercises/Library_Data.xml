@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<library_data> 
+
+    <book category="technical"> 
+        <isbn>9781409599340</isbn> 
+        <title>CODING FOR BEGINNERS USING PYTHON</title> 
+        <author>Louie Stowell</author> 
+    </book> 
+
+    <book category="technical"> 
+        <isbn>9780988842953</isbn> 
+        <title>Javascript for Beginners</title> 
+        <author>Mark Lassoff</author> 
+    </book> 
+
+    <book category="cookery"> 
+        <isbn>9781444756692</isbn> 
+        <title>Gordon Ramsay's Ultimate Cookery Course</title> 
+        <author>Gordon Ramsay</author> 
+    </book>
+
+    <book category="cookery"> 
+        <isbn>9780718154776</isbn> 
+        <title>Jamie's 30-Minute Meals</title> 
+        <author>Jamie Oliver</author> 
+    </book>
+
+</library_data> 
